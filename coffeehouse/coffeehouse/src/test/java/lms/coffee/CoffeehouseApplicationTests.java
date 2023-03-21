@@ -1,10 +1,10 @@
-package com.calculator;
+package lms.coffee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CalculatorcontrollerApplicationTests {
+class CoffeehouseApplicationTests {
 
 	@Test
 	void contextLoads() {

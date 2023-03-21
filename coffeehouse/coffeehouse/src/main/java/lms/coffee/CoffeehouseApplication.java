@@ -1,13 +1,13 @@
-package com.calculator;
+package lms.coffee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalculatorcontrollerApplication {
+public class CoffeehouseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalculatorcontrollerApplication.class, args);
+		SpringApplication.run(CoffeehouseApplication.class, args);
 	}
 
 }
